@@ -1,0 +1,44 @@
+{
+  "login": {
+    "success": true,
+    "message": "Login Success",
+    "data": {
+      "id": 1,
+      "name": "Sipolan",
+      "email": "sipolan@mailinator.com"
+    }
+  },
+  "register": {
+    "success": true,
+    "message": "Register Success"
+  },
+  "users": {
+    "success": true,
+    "message": "Users List",
+    "data": {
+      "items": [
+        {
+          "id": 1,
+          "name": "Sipolan"
+        },
+        {
+          "id": 2,
+          "name": "Sipolin"
+        },
+        {
+          "id": 3,
+          "name": "Sipolun"
+        },
+        {
+          "id": 4,
+          "name": "Sipolen"
+        },
+        {
+          "id": 5,
+          "name": "Sipolon"
+        }
+      ],
+      "total_items": 5
+    }
+  }
+}
